@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Olá! Eu sou a Jaqueline Cristine Rosa
 
-<!--
-**JaquelineCristineRosa/jaquelinecristinerosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou nova no mundo da tecnologia, atualmente estou cursando Ciência da computação e sou estagiária no banco da Caixa Econômica Federal. </br>
+Estou em busca de conhecimento e crescimento profissional. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 🚀 Especialização
+
+Meu foco principal é desenvolvimento back-end e ciência de dados. Atualmente estou estudando Python, SQL e AWS. </br> 
+
+
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lupina.gap/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaquelinecristinerosa/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lupinagap) 
+
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=jaquelinecristinerosa&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaquelinecristinerosa&theme=neon&hide_border=false"  width="400px" />
+
+
+
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=jaquelinecristinerosa&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
