@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Jaqueline Cristine Rosa
+# 👋 Olá! Seja bem vindo(a)!
 
 Sou nova no mundo da tecnologia, atualmente estou cursando Ciência da computação e sou estagiária no banco da Caixa Econômica Federal. </br>
 Estou em busca de conhecimento e crescimento profissional. 
