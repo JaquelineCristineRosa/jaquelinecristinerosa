@@ -7,7 +7,7 @@ Estou em busca de conhecimento e crescimento profissional.
 
 # 🚀 Especialização:
 
-Meu foco principal é desenvolvimento back-end e analise de dados. Atualmente estou estudando Python, SQL e AWS. </br> 
+Meu foco principal é desenvolvimento Back-end e Análise de Dados. Atualmente estou estudando Python, SQL e AWS. </br> 
 
 
 # 💻 Tech Stack:
