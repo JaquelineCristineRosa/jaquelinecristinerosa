@@ -16,7 +16,7 @@ Meu foco principal é desenvolvimento Back-end e Análise de Dados. Atualmente e
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lupina.gap/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaquelinecristinerosa/) 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=jaquelinecristinerosa&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaquelinecristinerosa&theme=neon&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=jaquelinecristinerosa&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaquelinecristinerosa&theme=neon&hide_border=false"  width="400px" />
 
 
 
